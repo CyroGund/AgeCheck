@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkage", "checkage\checkage.csproj", "{1A29BC6F-8EC3-4A36-BC55-ED2C71F5BDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A29BC6F-8EC3-4A36-BC55-ED2C71F5BDCC}.Debug|x86.ActiveCfg = Debug|x86
+		{1A29BC6F-8EC3-4A36-BC55-ED2C71F5BDCC}.Debug|x86.Build.0 = Debug|x86
+		{1A29BC6F-8EC3-4A36-BC55-ED2C71F5BDCC}.Release|x86.ActiveCfg = Release|x86
+		{1A29BC6F-8EC3-4A36-BC55-ED2C71F5BDCC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

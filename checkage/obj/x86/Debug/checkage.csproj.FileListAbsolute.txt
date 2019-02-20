@@ -1,0 +1,6 @@
+/Users/cyrogondim/Projects/checkage/checkage/bin/Debug/checkage.exe
+/Users/cyrogondim/Projects/checkage/checkage/bin/Debug/checkage.pdb
+/Users/cyrogondim/Projects/checkage/checkage/obj/x86/Debug/checkage.csprojAssemblyReference.cache
+/Users/cyrogondim/Projects/checkage/checkage/obj/x86/Debug/checkage.csproj.CoreCompileInputs.cache
+/Users/cyrogondim/Projects/checkage/checkage/obj/x86/Debug/checkage.exe
+/Users/cyrogondim/Projects/checkage/checkage/obj/x86/Debug/checkage.pdb
